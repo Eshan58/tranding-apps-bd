@@ -1,0 +1,146 @@
+[
+  {
+    "image": "../src/assets/demo-app (1).webp",
+    "title": "Pixel Adventure",
+    "companyName": "Retro Studios",
+    "id": 1,
+    "description": "A fun pixel-style platformer game with challenging levels and smooth controls.",
+    "size": 125,
+    "reviews": 2480,
+    "ratingAvg": 4.5,
+    "downloads": 580000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 720 },
+      { "name": "5 star", "count": 1120 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (2).webp",
+    "title": "FocusFlow",
+    "companyName": "Zen Labs",
+    "id": 2,
+    "description": "Stay productive with FocusFlow a timer and focus tracker for deep work sessions.",
+    "size": 60,
+    "reviews": 1890,
+    "ratingAvg": 4.2,
+    "downloads": 420000,
+    "ratings": [
+      { "name": "1 star", "count": 95 },
+      { "name": "2 star", "count": 142 },
+      { "name": "3 star", "count": 189 },
+      { "name": "4 star", "count": 567 },
+      { "name": "5 star", "count": 897 }
+    ]
+  },
+  {
+    "image":"../src/assets/demo-app (3).webp",
+    "title": "Weather Tracker Pro",
+    "companyName": "SkyView Technologies",
+    "id": 3,
+    "description": "Accurate weather forecasts with real-time alerts and beautiful visualizations.",
+    "size": 45,
+    "reviews": 3250,
+    "ratingAvg":4.7,
+    "downloads": 890000,
+    "ratings": [
+      { "name": "1 star", "count": 98 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 195 },
+      { "name": "4 star", "count": 780 },
+      { "name": "5 star", "count": 2047 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (4).webp",
+    "title": "FitLife Coach",
+    "companyName": "HealthPlus Inc",
+    "id": 4,
+    "description": "Personalized workout plans and nutrition tracking for your fitness journey.",
+    "size": 85,
+    "reviews": 4120,
+    "ratingAvg": 4.8,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 165 },
+      { "name": "2 star", "count": 206 },
+      { "name": "3 star", "count": 329 },
+      { "name": "4 star", "count": 988 },
+      { "name": "5 star", "count": 2432 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (5).webp",
+    "title": "Budget Planner",
+    "companyName": "Finance Masters",
+    "id": 5,
+    "description": "Take control of your finances with easy budgeting and expense tracking features.",
+    "size": 35,
+    "reviews": 2780,
+    "ratingAvg": 4.3,
+    "downloads": 650000,
+    "ratings": [
+      { "name": "1 star", "count": 139 },
+      { "name": "2 star", "count": 194 },
+      { "name": "3 star", "count": 305 },
+      { "name": "4 star", "count": 722 },
+      { "name": "5 star", "count": 1420 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (6).webp",
+    "title": "Language Learn",
+    "companyName": "Global Education",
+    "id": 6,
+    "description": "Learn new languages with interactive lessons and speech recognition technology.",
+    "size": 150,
+    "reviews": 5670,
+    "ratingAvg": 4.6,
+    "downloads": 1850000,
+    "ratings": [
+      { "name": "1 star", "count": 227 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 510 },
+      { "name": "4 star", "count": 1360 },
+      { "name": "5 star", "count": 3233 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (1).webp",
+    "title": "Photo Editor Pro",
+    "companyName": "Creative Studio",
+    "id": 7,
+    "description": "Professional photo editing tools with filters, effects and advanced adjustments.",
+    "size": 95,
+    "reviews": 3890,
+    "ratingAvg": 4.4,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 195 },
+      { "name": "2 star", "count": 272 },
+      { "name": "3 star", "count": 428 },
+      { "name": "4 star", "count": 933 },
+      { "name": "5 star", "count": 2062 }
+    ]
+  },
+  {
+    "image": "../src/assets/demo-app (2).webp",
+    "title": "Music Stream",
+    "companyName": "SoundWave Audio",
+    "id": 8,
+    "description": "Stream millions of songs and create personalized playlists for every mood.",
+    "size": 110,
+    "reviews": 6230,
+    "ratingAvg": 4.9,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 187 },
+      { "name": "2 star", "count": 249 },
+      { "name": "3 star", "count": 374 },
+      { "name": "4 star", "count": 1122 },
+      { "name": "5 star", "count": 4298 }
+    ]
+  }
+]
