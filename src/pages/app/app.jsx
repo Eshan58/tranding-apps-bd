@@ -10,7 +10,9 @@ const app = ({singleApp}) => {
 
 
     return (
+        
         <div>
+            <div>
             <div className="card bg-base-100 w-96 shadow-lg">
   <figure>
     <img src={image}
@@ -28,6 +30,8 @@ const app = ({singleApp}) => {
     </div>
   </div>
 </div>
+        </div>
+            
         </div>
         
     );

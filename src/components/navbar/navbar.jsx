@@ -8,7 +8,7 @@ const navbar = () => {
   const links = <>
         <Link to='/'><li><a>Home</a></li></Link>
         <Link to='/apps'><li><a>Apps</a></li></Link>
-        <Link><li><a>Installation</a></li></Link>
+        <Link to='/installlation'><li><a>Installation</a></li></Link>
   </>
     return (
         <div className="navbar bg-base-100 shadow-sm">
