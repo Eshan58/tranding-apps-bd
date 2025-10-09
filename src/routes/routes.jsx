@@ -4,9 +4,11 @@ import Root from '../pages/root/root';
 import ErrorPage from '../pages/errorPage/errorPage';
 import home from '../pages/home/home';
 // import about from '../pages/about/about';
-import allApps from '../pages/allApps/allApps';
+import AllApps from '../pages/allApps/allApps';
 import install from '../pages/install/install';
 import installlation from '../pages/installlation/installlation';
+import Details from '../pages/details/details'
+// import allApp from '../pages/allApp/allApp';
 
 
 export const router = createBrowserRouter([
@@ -22,7 +24,9 @@ export const router = createBrowserRouter([
     },
     {
       path:'/apps',
-      Component: allApps
+      loader:()=>fetch('allAppsData.json'),
+      element:<AllApps/>,
+      
     },
     {
       path:'/install',
@@ -31,6 +35,10 @@ export const router = createBrowserRouter([
     {
       path:'/installlation',
       Component: installlation,
+    },
+    {
+      path:'/about/:id',
+      Component:Details
     }
   ]
 }

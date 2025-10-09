@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://i.imgur.com/1.jpg",
+    "image": "../src/assets/demo-app (1).webp",
     "title": "Pixel Adventure",
     "companyName": "Retro Studios",
     "id": 1,
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "https://i.imgur.com/2.jpg",
+    "image": "../src/assets/demo-app (2).webp",
     "title": "FocusFlow",
     "companyName": "Zen Labs",
     "id": 2,
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "https://i.imgur.com/3.jpg",
+    "image": "../src/assets/demo-app (3).webp",
     "title": "Weather Tracker Pro",
     "companyName": "SkyView Technologies",
     "id": 3,
@@ -54,8 +54,8 @@
     ]
   },
   {
-    "image": "https://i.imgur.com/4.jpg",
-    "title": "FitLife Coach",
+    "image": "../src/assets/demo-app (4).webp",
+    "title": "HealthPlus Coach",
     "companyName": "HealthPlus Inc",
     "id": 4,
     "description": "Personalized workout plans and nutrition tracking for your fitness journey.",
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "https://i.imgur.com/5.jpg",
+    "image": "../src/assets/demo-app (5).webp",
     "title": "Budget Planner",
     "companyName": "Finance Masters",
     "id": 5,
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "image": "https://i.imgur.com/6.jpg",
+    "image": "../src/assets/demo-app (6).webp",
     "title": "Language Learn",
     "companyName": "Global Education",
     "id": 6,
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "https://i.imgur.com/7.jpg",
+    "image": "../src/assets/demo-app (1).webp",
     "title": "Photo Editor Pro",
     "companyName": "Creative Studio",
     "id": 7,
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "https://i.imgur.com/8.jpg",
+    "image": "../src/assets/demo-app (2).webp",
     "title": "Music Stream",
     "companyName": "SoundWave Audio",
     "id": 8,
@@ -145,7 +145,7 @@
   }
     ,
   {
-    "image": "https://i.imgur.com/9.jpg",
+    "image": "../src/assets/demo-app (3).webp",
     "title": "Recipe Master",
     "companyName": "Culinary Arts",
     "id": 9,
@@ -163,7 +163,7 @@
     ]
   },
   {
-    "image": "https://i.imgur.com/10.jpg",
+    "image": "../src/assets/demo-app (4).webp",
     "title": "Puzzle Quest",
     "companyName": "Brain Games Studio",
     "id": 10,
@@ -181,7 +181,7 @@
     ]
   },
   {
-    "image": "https://i.imgur.com/11.jpg",
+    "image": "../src/assets/demo-app (5).webp",
     "title": "Travel Guide",
     "companyName": "Wanderlust Inc",
     "id": 11,
@@ -199,7 +199,7 @@
     ]
   },
   {
-    "image": "https://i.imgur.com/12.jpg",
+    "image": "../src/assets/demo-app (6).webp",
     "title": "Sleep Tracker",
     "companyName": "Wellness Tech",
     "id": 12,
@@ -217,7 +217,7 @@
     ]
   },
   {
-    "image": "https://i.imgur.com/13.jpg",
+    "image": "../src/assets/demo-app (1).webp",
     "title": "Code Master",
     "companyName": "DevLearn Academy",
     "id": 13,
@@ -235,7 +235,7 @@
     ]
   },
   {
-    "image": "https://i.imgur.com/14.jpg",
+    "image": "../src/assets/demo-app (2).webp",
     "title": "Meditation Zone",
     "companyName": "Mindful Living",
     "id": 14,
@@ -253,7 +253,7 @@
     ]
   },
   {
-    "image": "https://i.imgur.com/15.jpg",
+    "image": "../src/assets/demo-app (3).webp",
     "title": "Racing Extreme",
     "companyName": "Speed Games",
     "id": 15,
@@ -271,7 +271,7 @@
     ]
   },
   {
-    "image": "https://i.imgur.com/16.jpg",
+    "image": "../src/assets/demo-app (4).webp",
     "title": "Note Taker Pro",
     "companyName": "Productivity Suite",
     "id": 16,
@@ -289,7 +289,7 @@
     ]
   },
   {
-    "image": "https://i.imgur.com/17.jpg",
+    "image": "../src/assets/demo-app (5).webp",
     "title": "Social Camera",
     "companyName": "Photo Social",
     "id": 17,
@@ -307,7 +307,7 @@
     ]
   },
   {
-    "image": "https://i.imgur.com/18.jpg",
+    "image": "../src/assets/demo-app (6).webp",
     "title": "Investment Tracker",
     "companyName": "Wealth Management",
     "id": 18,
@@ -325,7 +325,7 @@
     ]
   },
   {
-    "image": "https://i.imgur.com/19.jpg",
+    "image": "../src/assets/demo-app (1).webp",
     "title": "Fitness Tracker Pro",
     "companyName": "ActiveLife Tech",
     "id": 19,
@@ -343,7 +343,7 @@
     ]
   },
   {
-    "image": "https://i.imgur.com/20.jpg",
+    "image": "../src/assets/demo-app (2).webp",
     "title": "Language Translate",
     "companyName": "Global Connect",
     "id": 20,
