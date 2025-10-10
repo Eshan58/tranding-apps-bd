@@ -1,11 +1,11 @@
 import React from 'react';
 
-const details = () => {
+const RatingStar = () => {
     return (
         <div>
-            <h1>no details</h1>
+            <h1>helloooooo</h1>
         </div>
     );
 };
 
-export default details;
+export default RatingStar;

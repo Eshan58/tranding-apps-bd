@@ -12,7 +12,7 @@ const apps = ({data}) => {
             
             <h1 className='text-5xl text-center font-bold mt-10 mb-5'>Trending Apps</h1><br />
             <p className='text-gray-400 text-center'>Explore All Trending Apps on the Market developed by us</p>
-            <Link to={`/about/${data?.id}`}>
+            <Link to={`/about/${data.id}`}>
             <Suspense fallback={<Loading />}>  
                 <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 mt-10 mb-10 justify-items-center mx-auto'>
                     {

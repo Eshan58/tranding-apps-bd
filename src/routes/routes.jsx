@@ -3,12 +3,12 @@ import { createBrowserRouter } from 'react-router-dom';
 import Root from '../pages/root/root';
 import ErrorPage from '../pages/errorPage/errorPage';
 import home from '../pages/home/home';
-// import about from '../pages/about/about';
 import AllApps from '../pages/allApps/allApps';
 import install from '../pages/install/install';
-import installlation from '../pages/installlation/installlation';
-import Details from '../pages/details/details'
-// import allApp from '../pages/allApp/allApp';
+import installlation from '../../src/installlation/installlation';
+import Details from '../../src/details/details'
+import Demo from '../demo/demo';
+
 
 
 export const router = createBrowserRouter([
@@ -38,7 +38,7 @@ export const router = createBrowserRouter([
     },
     {
       path:'/about/:id',
-      Component:Details
+      Component: Demo,
     }
   ]
 }

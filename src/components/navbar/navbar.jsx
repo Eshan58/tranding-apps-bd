@@ -23,7 +23,7 @@ const navbar = () => {
         {links}
       </ul>
     </div>
-    <Link><a className="btn btn-ghost text-xl ml-3"><span className='w-9 h-9'><img src={logo} alt="" /></span><span>HERO.IO</span></a></Link>
+    <Link to='/'><a className="btn btn-ghost text-xl ml-3"><span className='w-9 h-9'><img src={logo} alt="" /></span><span>HERO.IO</span></a></Link>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
@@ -31,7 +31,7 @@ const navbar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a href='https://github.com/dashboard' className="btn btn-active btn-primary mr-3"><span><FaGithub /></span><span>Contribute</span></a>
+    <a href='https://github.com/dashboard' className="btn btn-active bg-purple-500 btn-primary mr-3"><span><FaGithub /></span><span>Contribute</span></a>
   </div>
 </div>
     );
