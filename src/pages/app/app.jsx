@@ -13,7 +13,7 @@ const app = ({singleApp}) => {
         
         <div>
             <div>
-            <div className="card bg-base-100 w-96 shadow-lg">
+            <div className="card bg-base-100 w-70 shadow-lg">
   <figure>
     <img src={image}
       alt="Shoes" />

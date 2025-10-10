@@ -14,7 +14,7 @@ const apps = ({data}) => {
             <p className='text-gray-400 text-center'>Explore All Trending Apps on the Market developed by us</p>
             <Link to={`/about/${data.id}`}>
             <Suspense fallback={<Loading />}>  
-                <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 mt-10 mb-10 justify-items-center mx-auto'>
+                <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 mt-10 justify-items-center mx-auto'>
                     {
                     data.map((singleApp)=><App key={singleApp.id} singleApp={singleApp}></App>)
                 }

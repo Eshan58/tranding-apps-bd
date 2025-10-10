@@ -14,12 +14,6 @@ const Details = () => {
 
 
 
-
-
-
-
-
-
   useEffect(() => {
     fetch('/allAppsData.json')
       .then(response => response.json())
